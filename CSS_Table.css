@@ -1,0 +1,16 @@
+table {
+	border:1px solid silver;
+	}
+
+td:hover {
+	background-color:OrangeRed;
+	color: LemonChiffon;
+	}
+tr,th {
+	background-color: black;
+	color: LemonChiffon;
+	}
+tr, td {
+	background-color: Grey;
+	color: Ghostwhite;
+	}

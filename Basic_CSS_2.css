@@ -1,0 +1,12 @@
+h1 {
+	color: white;
+  	text-shadow: 3px 3px 3px purple, 0 2px 10px blue, 2px 2px 6px black
+	;
+}
+
+p {
+	color:PapayaWhip;
+	background: plum;
+	font-weight: bold;
+	text-align: center;
+}
